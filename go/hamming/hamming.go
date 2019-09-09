@@ -3,7 +3,7 @@
 package hamming
 
 import (
-	"github.com/pkg/errors"
+	"errors"
 )
 
 // Distance calculate Hamming distance between two DNA strands.
